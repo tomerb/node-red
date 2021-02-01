@@ -2,7 +2,7 @@
 
 http://nodered.org
 
-[![Build Status](https://travis-ci.org/node-red/node-red.svg?branch=master)](https://travis-ci.org/node-red/node-red)
+[![Build Status](https://travis-ci.org/tomerb/node-red.svg?branch=master)](https://travis-ci.org/tomerb/node-red)
 [![Coverage Status](https://coveralls.io/repos/node-red/node-red/badge.svg?branch=master)](https://coveralls.io/r/node-red/node-red?branch=master)
 
 Low-code programming for event-driven applications.
